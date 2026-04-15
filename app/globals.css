@@ -175,8 +175,8 @@
 
 .dark {
   /* Accent colors */
-  --brand: oklch(83.6% 0.1177 66.87);
-  --brand-foreground: oklch(75.77% 0.159 55.91);
+ --brand: oklch(50.111% 0.28043 263.839);
+  --brand-foreground: oklch(65.149% 0.19205 251.488);
 
   /* Customized shadcn/ui colors */
   --background: oklch(0.145 0 0);
@@ -195,7 +195,7 @@
   --accent-foreground: oklch(0.985 0 0);
   --destructive: oklch(0.704 0.191 22.216);
   --destructive-foreground: oklch(0.637 0.237 25.331);
-  --border: oklch(1 0 0 / 10%);
+  --border: oklch(1 0 0 / 20%);
   --input: oklch(1 0 0 / 15%);
   --ring: oklch(0.556 0 0);
   --chart-1: oklch(0.87 0 0);
